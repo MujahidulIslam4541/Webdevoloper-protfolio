@@ -44,6 +44,24 @@
   color: #757575;
  }
 
+ .cv-description{
+  color: #757575;
+  font-size: 14px;
+}
+.padd{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #D1D1D1;
+}
+
+.ehead{
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #474747;
+  margin-bottom: 5px;
+}
+
  .background{
   background-color: #FFF8F3;
  }
@@ -162,4 +180,50 @@
   }
   .skill-item p{
     padding: 15px  0px 10px 20px;
+  }
+
+  /* cv section start */
+  .cv{
+    margin-top: 100px;
+    margin-bottom: 50px;
+  }
+  .cv-ee{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .btn2{
+    text-align: center;
+   margin-top: 40px;
+  }
+
+  /* foot section start */
+  .footer{
+    padding: 100px 100px;
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+  }
+  
+  .foot1 img{
+    padding-top: 40px;
+  }
+
+  .foot2 input,textarea{
+    width: 100%;
+    height: 40px;
+    background-color: #fff;
+    color: #474747;
+    border: none;
+    font-size: 18px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 5px;
+  }
+  .tett{
+   max-width:500px ;
+   max-height: 150px;
+   min-width: 500px;
+   min-height: 150px;
+   padding-top: 20px;
   }
