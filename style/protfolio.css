@@ -31,7 +31,15 @@
     border-radius: 5px;
     font-weight: 500;
  }
-
+.btn-solve{
+  margin-top: 30px;
+}
+.contact{
+  background-color:transparent;
+  color: #FD6E0A;
+  border: 2px solid #FD6E0A;
+  margin-left: 20px;
+}
  .section-title{
     font-size: 30px;
     font-weight: bold;
