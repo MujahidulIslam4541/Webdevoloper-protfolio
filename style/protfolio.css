@@ -69,13 +69,19 @@
   text-align: center;
  }
 
+
+
+
  /* header style */
  .header{
     background-image: url(../images/developer.png),url(../images/header_bg.png);
     background-repeat: no-repeat;
     background-position: top left,bottom right;
-    background-size:contain;
+    background-size:contain, 50%;
  }
+
+
+
 
  /* Nav styles */
   nav{
